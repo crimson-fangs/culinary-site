@@ -1,6 +1,6 @@
 # Brasil Na Mesa 🍲
 
-Projeto desenvolvido para fins acadêmicos na disciplina de **Desenvolvimento de Páginas Web Dinâmicas** do curso de **Análise e Desenvolvimento de Sistemas** no **IFSP**.
+Projeto desenvolvido para fins acadêmicos na disciplina de Desenvolvimento de Páginas Web Dinâmicas do curso de Análise e Desenvolvimento de Sistemas no IFSP.
 
 O Brasil Na Mesa é um website que celebra a gastronomia brasileira, utilizando tecnologias front-end para proporcionar uma experiência interativa e informativa sobre receitas e culinária regional.
 
