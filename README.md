@@ -1,7 +1,7 @@
 <h1 align="center">🇧🇷 Brasil Na Mesa</h1>
 
 <p align="center">
-  <img src="https://github.com/this-eloy/brasil-na-mesa/blob/08fd66057e7cc849c3f44f68a46ac72737dcf36c/projeto/IMGS/prints/home-brasil-na-mesa.png" width="700" alt="Página inicial do Brasil na Mesa">
+  <img src="https://github.com/this-eloy/brasil-na-mesa/blob/08fd66057e7cc849c3f44f68a46ac72737dcf36c/projeto/IMGS/prints/home-brasil-na-mesa.png" width="900" alt="Página inicial do Brasil na Mesa">
 </p>
 
 <p>Projeto desenvolvido para fins acadêmicos na disciplina de <b>Desenvolvimento de Páginas Web Dinâmicas</b> do curso de Análise e Desenvolvimento de Sistemas no <b>IFSP</b>.</p>
